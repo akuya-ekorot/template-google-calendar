@@ -1,7 +1,7 @@
 {
-  "name": "template-google-calendar",
+  "name": "template-meeting-scheduler",
   "version": "1.0.0",
-  "description": "",
+  "description": "Intelligent email-to-calendar agent that analyzes Gmail messages for meeting requests and automatically creates Google Calendar events with all email thread participants",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
